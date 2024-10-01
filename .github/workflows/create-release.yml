@@ -2,11 +2,11 @@ name: Create Release
 on:
   workflow_dispatch:
     inputs:
-      releaseVersion:
-        description: "The version number for this release"
-        required: true
       branch:
         description: "The branch to create the release from"
+        required: true
+      releaseVersion:
+        description: "The version number for this release"
         required: true
 jobs:
   create-release:
