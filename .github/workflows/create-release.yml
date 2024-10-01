@@ -1,0 +1,19 @@
+name: Create Release
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "The version number for this release"
+        required: true
+      branch:
+        description: "The branch to create the release from"
+        required: true
+jobs:
+  create-vsix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-node@master
+        with:
+          node-version: "22.9.0"
+      - run: echo  ${{ github.event.inputs.version }} ${{ github.event.inputs.branch }}
