@@ -16,4 +16,5 @@ jobs:
       - uses: actions/setup-node@master
         with:
           node-version: "22.9.0"
+      - run: npm ci
       - run: npx ts-node src/cli.ts create-release --releaseVersion "${{ github.event.inputs.releaseVersion }}" --branch "${{ github.event.inputs.branch }}"
