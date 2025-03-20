@@ -1,6 +1,6 @@
 {
   "name": "release_testing",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Repo for testing out new CI setup",
   "main": "index.js",
   "scripts": {
