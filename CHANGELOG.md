@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [1.1.4](https://github.com/rokucommunity/release-testing/compare/v1.1.3...v1.1.4) - 2025-04-08
+### Changed
+ - Change the dispatchable call to use the develop branch ([41e63bc](https://github.com/rokucommunity/release-testing/commit/41e63bc))
+
+
+
 ## [1.1.2](https://github.com/rokucommunity/release-testing/compare/v1.1.1...v1.1.2) - 2025-04-01
 ### Changed
  - Update publish-release.yml ([2badcc3](https://github.com/rokucommunity/release-testing/commit/2badcc3))
