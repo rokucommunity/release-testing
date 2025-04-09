@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [1.2.1](https://github.com/rokucommunity/release-testing/compare/v1.2.0...v1.2.1) - 2025-04-09
+### Changed
+ - Add new line to end of file ([87b7d4a](https://github.com/rokucommunity/release-testing/commit/87b7d4a))
+ - Just testing empty commits ([da4de15](https://github.com/rokucommunity/release-testing/commit/da4de15))
+
+
+
 ## [1.2.0](https://github.com/rokucommunity/release-testing/compare/v1.1.4...v1.2.0) - 2025-04-08
 ### Changed
  - Use the workflows-ref ([2cec60d](https://github.com/rokucommunity/release-testing/commit/2cec60d))
