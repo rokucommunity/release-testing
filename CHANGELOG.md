@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [1.2.2](https://github.com/rokucommunity/release-testing/compare/v1.2.1...v1.2.2) - 2025-04-16
+### Changed
+ - Remove changes from the changelog ([a68ab35](https://github.com/rokucommunity/release-testing/commit/a68ab35))
+
+
+
 ## [1.2.1](https://github.com/rokucommunity/release-testing/compare/v1.2.0...v1.2.1) - 2025-04-10
 ### Changed
  - Add new line to end of file ([87b7d4a](https://github.com/rokucommunity/release-testing/commit/87b7d4a))
