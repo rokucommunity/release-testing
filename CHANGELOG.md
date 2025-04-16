@@ -2,6 +2,19 @@
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+
+
+## [1.2.2](https://github.com/rokucommunity/release-testing/compare/v1.2.1...v1.2.2) - 2025-04-16
+### Changed
+ - Remove word from marker ([6aa6095](https://github.com/rokucommunity/release-testing/commit/6aa6095))
+ - Revert "Remove changes from the changelog" ([111caa4](https://github.com/rokucommunity/release-testing/commit/111caa4))
+ - Remove changes from the changelog ([a68ab35](https://github.com/rokucommunity/release-testing/commit/a68ab35))
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
