@@ -2,6 +2,22 @@
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+
+
+## [2.0.0-alpha.0](https://github.com/rokucommunity/release-testing/compare/v1.2.1...v2.0.0-alpha.0) - 2025-04-17
+### Changed
+ - Testing alpha release ([5088df2](https://github.com/rokucommunity/release-testing/commit/5088df2))
+ - Create initialize-release.yml ([86c14b2](https://github.com/rokucommunity/release-testing/commit/86c14b2))
+ - Delete .github/workflows/initialize-release.yml ([c77ab56](https://github.com/rokucommunity/release-testing/commit/c77ab56))
+ - Remove word from marker ([6aa6095](https://github.com/rokucommunity/release-testing/commit/6aa6095))
+ - Revert "Remove changes from the changelog" ([111caa4](https://github.com/rokucommunity/release-testing/commit/111caa4))
+ - Remove changes from the changelog ([a68ab35](https://github.com/rokucommunity/release-testing/commit/a68ab35))
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
