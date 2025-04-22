@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [2.0.1](https://github.com/rokucommunity/release-testing/compare/v2.0.0...v2.0.1) - 2025-04-22
+### Changed
+ - Merge pull request #63 from rokucommunity/release/2.0.0 ([50cf977](https://github.com/rokucommunity/release-testing/commit/50cf977))
+
+
+
 ## [2.0.0](https://github.com/rokucommunity/release-testing/compare/v1.2.6...v2.0.0) - 2025-04-22
 ### Changed
  - Remove preid ([fd4a3d6](https://github.com/rokucommunity/release-testing/commit/fd4a3d6))
