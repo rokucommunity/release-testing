@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [2.5.0-beta.2](https://github.com/rokucommunity/release-testing/compare/v2.0.0...v2.5.0-beta.2) - 2025-04-22
+### Changed
+ - Merge pull request #66 from rokucommunity/release/2.5.0-beta.1 ([55777e8](https://github.com/rokucommunity/release-testing/commit/55777e8))
+ - Merge pull request #65 from rokucommunity/release/2.5.0-beta.0 ([e9c08fb](https://github.com/rokucommunity/release-testing/commit/e9c08fb))
+ - Merge pull request #63 from rokucommunity/release/2.0.0 ([50cf977](https://github.com/rokucommunity/release-testing/commit/50cf977))
+
+
+
 ## [2.5.0-beta.1](https://github.com/rokucommunity/release-testing/compare/v2.0.0...v2.5.0-beta.1) - 2025-04-22
 ### Changed
  - Merge pull request #65 from rokucommunity/release/2.5.0-beta.0 ([e9c08fb](https://github.com/rokucommunity/release-testing/commit/e9c08fb))
