@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [2.1.6](https://github.com/rokucommunity/release-testing/compare/2.1.5...v2.1.6) - 2025-05-06
+### Changed
+ - Upgrading to brighterscript 0.67.8 ([615df1e](https://github.com/rokucommunity/release-testing/commit/615df1e))
+
+
+
 ## [2.1.5](https://github.com/rokucommunity/release-testing/compare/2.1.4...v2.1.5) - 2025-05-06
 ### Changed
  - Add brighterscript 0.67.0 ([f2e1ec5](https://github.com/rokucommunity/release-testing/commit/f2e1ec5))
