@@ -1,6 +1,6 @@
 {
   "name": "release-testing",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": "Repo for testing out new CI setup",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/rokucommunity/release-testing#readme",
   "dependencies": {
-    "brighterscript": "^0.67.8",
+    "brighterscript": "^0.69.8",
     "yargs": "^17.7.2"
   }
 }
