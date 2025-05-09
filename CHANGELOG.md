@@ -5,6 +5,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+
+## [2.1.8](https://github.com/rokucommunity/release-testing/compare/2.1.7...v2.1.8) - 2025-05-09
+### Changed
+ - Update publish-release.yml ([7875f1c](https://github.com/rokucommunity/release-testing/commit/7875f1c))
+ - Merge pull request #125 from Christian-Holbrook/release/5.0.0 ([2bf9e1f](https://github.com/rokucommunity/release-testing/commit/2bf9e1f))
+
+
 Test
 
 ## [2.1.7](https://github.com/rokucommunity/release-testing/compare/2.1.6...v2.1.7) - 2025-05-09
