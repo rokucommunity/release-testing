@@ -6,6 +6,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [2.1.9](https://github.com/rokucommunity/release-testing/compare/2.1.8...v2.1.9) - 2025-05-13
+### Added
+ - Added feature ([52a58a7](https://github.com/rokucommunity/release-testing/commit/52a58a7))
+### Changed
+ - change something ([21cd08a](https://github.com/rokucommunity/release-testing/commit/21cd08a))
+ - updated text header ([056ede8](https://github.com/rokucommunity/release-testing/commit/056ede8))
+### Fixed
+ - fix 4 ([9ca4afb](https://github.com/rokucommunity/release-testing/commit/9ca4afb))
+ - fix 3 ([d7710f6](https://github.com/rokucommunity/release-testing/commit/d7710f6))
+ - fix 2 ([ef57f06](https://github.com/rokucommunity/release-testing/commit/ef57f06))
+ - fix 1 ([fb0f041](https://github.com/rokucommunity/release-testing/commit/fb0f041))
+ - Fixed bug ([d245235](https://github.com/rokucommunity/release-testing/commit/d245235))
+
+
+
 ## [2.1.8](https://github.com/rokucommunity/release-testing/compare/2.1.7...v2.1.8) - 2025-05-09
 ### Changed
  - Update publish-release.yml ([7875f1c](https://github.com/rokucommunity/release-testing/commit/7875f1c))
