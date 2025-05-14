@@ -6,6 +6,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [2.1.10](https://github.com/rokucommunity/release-testing/compare/2.1.9...v2.1.10) - 2025-05-14
+### Added
+ - Add new class ([96ff10f](https://github.com/rokucommunity/release-testing/commit/96ff10f))
+### Changed
+ - test this ([c0c8a85](https://github.com/rokucommunity/release-testing/commit/c0c8a85))
+ - found bug in class and fixed ([6394bae](https://github.com/rokucommunity/release-testing/commit/6394bae))
+### Fixed
+ - fix error 3 ([49dedee](https://github.com/rokucommunity/release-testing/commit/49dedee))
+ - fix error 2 ([e53c842](https://github.com/rokucommunity/release-testing/commit/e53c842))
+ - Fix error 1 ([2ec3be8](https://github.com/rokucommunity/release-testing/commit/2ec3be8))
+ - Fix error ([755eb4c](https://github.com/rokucommunity/release-testing/commit/755eb4c))
+
+
+
 ## [2.1.9](https://github.com/rokucommunity/release-testing/compare/2.1.8...v2.1.9) - 2025-05-14
 ### Added
  - Added feature ([52a58a7](https://github.com/rokucommunity/release-testing/commit/52a58a7))
