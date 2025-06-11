@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "echo \"Place holder for lint command\"",
     "test": "echo \"Place holder for test command\"",
-    "package": "echo \"Place holder for build command\" && echo \"Hello World!\" > hello.vsix"
+    "package": "echo \"Place holder for build command\" && mkdir out && echo \"Hello World!\" > hello.tgz"
   },
   "repository": {
     "type": "git",
