@@ -9,12 +9,14 @@ on:
   workflow_dispatch:
     inputs:
       tag:
+        type: string
         description: 'The release tag that should be referenced (i.e. `v1.2.3`)'
         required: true
       force:
+        type: boolean
         description: 'Force the release artifacts to be created and uploaded'
         required: false
-        default: 'false'
+        default: false
 
 jobs:
   run:
