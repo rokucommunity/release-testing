@@ -6,15 +6,25 @@ on:
       - reopened
       - opened
       - synchronize
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'The release tag that should be referenced (i.e. `v1.2.3`)'
+        required: true
+      force:
+        description: 'Force the release artifacts to be created and uploaded'
+        required: false
+        default: 'false'
 
 jobs:
   run:
-    if: startsWith( github.head_ref, 'release/')
+    if: github.event_name == 'workflow_dispatch' || startsWith( github.head_ref, 'release/')
     uses: rokucommunity/workflows/.github/workflows/make-release-artifacts.yml@develop
     with:
-      branch: ${{ github.event.pull_request.head.ref }}
+      branch: ${{ github.event.inputs.tag || github.event.pull_request.head.ref }}
       node-version: "16.20.2"
       artifact-paths: "./*.tgz" # "*.vsix"
+      force: ${{ github.event.inputs.force || 'false' }}
       workflows-ref: 'develop'
     secrets: inherit
 
