@@ -26,7 +26,7 @@ jobs:
       branch: ${{ github.event.inputs.tag || github.event.pull_request.head.ref }}
       node-version: "16.20.2"
       artifact-paths: "./*.tgz" # "*.vsix"
-      force: ${{ github.event.inputs.force || false }}
+      force: ${{ github.event.inputs.force == 'true' }}
       workflows-ref: 'develop'
     secrets: inherit
 
