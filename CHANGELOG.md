@@ -6,6 +6,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [2.2.1](https://github.com/rokucommunity/release-testing/compare/2.2.0...v2.2.1) - 2025-06-13
+### Added
+ - Add dispatcher to make-release-artifacts ([40072d4](https://github.com/rokucommunity/release-testing/commit/40072d4))
+ - Create a .vsix release ([e59bc1f](https://github.com/rokucommunity/release-testing/commit/e59bc1f))
+### Changed
+ - Try to convert the string input to a boolean ([1ec9ddb](https://github.com/rokucommunity/release-testing/commit/1ec9ddb))
+ - Try to use correct types ([1cdb628](https://github.com/rokucommunity/release-testing/commit/1cdb628))
+ - Try to use boolen instead of a string ([722ddfd](https://github.com/rokucommunity/release-testing/commit/722ddfd))
+ - Revert "Create a .vsix release" ([9c87a3c](https://github.com/rokucommunity/release-testing/commit/9c87a3c))
+ - upgrade to [brighterscript@0.69.10](https://github.com/rokucommunity/brighterscript/blob/master/CHANGELOG.md#06910---2025-06-03). Notable changes since 0.69.9:
+     - chore: Shared CI remove merged check on publish releases ([#1494](https://github.com/rokucommunity/release-testing/pull/1494))
+
+
+
 ## [2.2.0](https://github.com/rokucommunity/release-testing/compare/2.1.10...v2.2.0) - 2025-05-14
 ### Added
  - add feature ([6f65822](https://github.com/rokucommunity/release-testing/commit/6f65822))
