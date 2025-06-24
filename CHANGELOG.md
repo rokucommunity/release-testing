@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
-## [2.3.0](https://github.com/rokucommunity/release-testing/compare/2.0.0...v2.3.0) - 2025-06-16
+## [2.3.0](https://github.com/rokucommunity/release-testing/compare/2.0.0...v2.3.0) - 2025-06-24
 ### Added
  - Add dispatcher to make-release-artifacts ([40072d4](https://github.com/rokucommunity/release-testing/commit/40072d4))
  - Create a .vsix release ([e59bc1f](https://github.com/rokucommunity/release-testing/commit/e59bc1f))
